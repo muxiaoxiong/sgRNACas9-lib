@@ -1,5 +1,5 @@
 # Table of contents
-- Back ground
+- Background
 - Install
 - Usage
 - 
