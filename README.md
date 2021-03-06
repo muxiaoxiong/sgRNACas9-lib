@@ -15,5 +15,11 @@ CRISPR-Cas9 is a gene editing tool. The design and off-target evaluation of sgRN
 git clone https://github.com/muxiaoxiong/sgRNACas9-lib.git
 ```
 # Usage
+```
+python3 sgRNAcas9_lib.py
+```
+# File description
+
 # Example
+
 
