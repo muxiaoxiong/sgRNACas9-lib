@@ -14,7 +14,7 @@ git clone https://github.com/muxiaoxiong/sgRNACas9-lib.git
 python3 sgRNAcas9_lib.py
 ```
 # File description
-
-# Example
+bin --->It was used to evaluate sgRNA off-target condition
+sgRNAcas9_lib.py --->main software
 
 
