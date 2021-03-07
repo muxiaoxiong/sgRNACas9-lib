@@ -8,7 +8,7 @@ sgRNACas9-lib has been tested on the platforms below:
 # Requirement
 - python >=3.5
 
-# Install
+# Download
 ```
 git clone https://github.com/muxiaoxiong/sgRNACas9-lib.git
 ```
