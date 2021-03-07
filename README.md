@@ -15,6 +15,7 @@ python3 sgRNAcas9_lib.py
 ```
 # File description
 bin --->It was used to evaluate sgRNA off-target condition
+
 sgRNAcas9_lib.py --->main software
 
 
