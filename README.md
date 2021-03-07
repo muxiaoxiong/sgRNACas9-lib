@@ -7,6 +7,7 @@ sgRNACas9-lib has been tested on the platforms below:
 - GNU/Linux (Ubuntu)
 # Requirement
 - python >=3.5
+- gcc
 
 # Download
 ```
