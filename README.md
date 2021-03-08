@@ -15,7 +15,7 @@ git clone https://github.com/muxiaoxiong/sgRNACas9-lib.git
 ```
 # Usage
 ```
-python3 sgRNAcas9_lib.py
+python3 sgRNAcas9_lib.py -i gene.fa -g genome_example.fa -o result
 ```
 # File description
 bin --->It was used to evaluate sgRNA off-target condition
