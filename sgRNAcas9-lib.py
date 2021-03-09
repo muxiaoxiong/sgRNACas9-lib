@@ -20,7 +20,7 @@ def usage():
     print(
         """
 Usage:
-    python3 sgRNAcas9_lib.py -i <gene.fa> -g <genome.fa> -o <output.txt>
+    python3 sgRNAcas9-lib.py -i <gene.fa> -g <genome.fa> -o <output.txt>
 Options:
     -m    Maximum number of mismatches       <int>          [default:5]
     -p    The number of process              <int>          [default:8]
